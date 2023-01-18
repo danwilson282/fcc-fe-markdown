@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-fe-markdown/static/css/main.be648afc.css",
+    "main.js": "/fcc-fe-markdown/static/js/main.8a893a05.js",
+    "static/js/787.206efe35.chunk.js": "/fcc-fe-markdown/static/js/787.206efe35.chunk.js",
+    "index.html": "/fcc-fe-markdown/index.html",
+    "main.be648afc.css.map": "/fcc-fe-markdown/static/css/main.be648afc.css.map",
+    "main.8a893a05.js.map": "/fcc-fe-markdown/static/js/main.8a893a05.js.map",
+    "787.206efe35.chunk.js.map": "/fcc-fe-markdown/static/js/787.206efe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be648afc.css",
+    "static/js/main.8a893a05.js"
+  ]
+}
